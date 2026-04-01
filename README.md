@@ -86,7 +86,7 @@ sorgho-project/
 ## 🚀 Installation et exécution
 
 ### 1. Cloner le projet
-git clone https://github.com/tonnom/sorgho-project.git  
+git clone https://github.com/ASCO0927/sorgho-yield-estimation.git  
 cd sorgho-project  
 
 ### 2. Installer les dépendances
