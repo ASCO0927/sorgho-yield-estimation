@@ -125,7 +125,35 @@ Ce projet vise à répondre à des enjeux majeurs en Afrique :
 - Amélioration du modèle
 - Création d’une API
 
+## 📸 Aperçu de l’application
+
+
+### 🔐 Page de connexion
+Interface sécurisée permettant aux utilisateurs d’accéder à l’application.
+
+![Connexion](images_d'illustration/page_de_connexion.png)
+
 ---
+
+### 🏠 Page d’accueil
+Interface principale de l’application permettant d’accéder aux fonctionnalités du système d’analyse du sorgho.
+
+![Page d'accueil](images_d'illustration/page_accueil.png)
+
+
+---
+
+### 🌾 Détection des épis de sorgho
+Le modèle d’intelligence artificielle détecte automatiquement les épis de sorgho dans les images aériennes.
+
+![Détection](images_d'illustration/detection_epis_sorgho.png)
+
+---
+
+### 📊 Estimation du rendement
+Résultat final du système : estimation du rendement agricole à partir de l’analyse de l’image.
+
+![Estimation](images_d'illustration/estimation_rendement.png)
 
 ## 👤 Auteur
 KARAMA HASSANE
